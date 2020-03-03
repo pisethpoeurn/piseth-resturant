@@ -103,7 +103,7 @@ text-decoration: underline;
     background-size: cover;
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: flex-end;
     flex-direction: column;
 }
 
